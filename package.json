@@ -1,0 +1,16 @@
+{
+  "name": "guiaestudiorouting",
+  "version": "1.0.0",
+  "description": "guia estudio 1 Angular",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ng new guiaestudiorouting",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nuevaAplicacion":"ng --help"
+  },
+  "author": "carg",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^15.1.6"
+  }
+}
